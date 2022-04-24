@@ -1,2 +1,2 @@
 # codecademy-projects
-My Codecademy projects
+Codecademy project-creating a company website with Flexbox
